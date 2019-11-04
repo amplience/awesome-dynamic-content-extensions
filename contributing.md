@@ -19,6 +19,7 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing categorization are welcome.
+- Run [awesome-lint](https://github.com/sindresorhus/awesome-lint) on your PR before submitting
 
 Thank you for your suggestions!
 
