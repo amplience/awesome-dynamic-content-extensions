@@ -1,28 +1,47 @@
 # Awesome Dynamic Content Extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 > Curating the best Dynamic Content Extensions for Amplience users
-
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Extensions](#extensions)
+  - [Media Extensions](#media-extensions)
+  - [Content Link and Reference Extensions](#content-link-and-reference-extensions)
+
+- [Development Tools](#development-tools)
+
+- [Guides](#guides)
+  - [Offical](#offical)
+  - [Blogs](#blogs)
+  - [Videos](#videos)
+
+## [Extensions](#extensions)
+
+List of the most Awesome extensions made for Dynamic Content
+
+- [dc-extension-slugify](http://example.com) - Turn a title into a uri safe string.
+- [dc-extension-markdown-editor](http://example.com) - Improved Markdown editor with inlining Content Links and Media.
+
+### [Media Extensions](#media-extensions)
+- [dc-extension-points-of-interest](http://example.com) - Add Points of interest onto an Images in Dynamic Media.
+
+### [Content Link and Reference Extensions](#content-link-and-reference-extensions)
+- [dc-extension-content-link-selector](http://example.com) - Typeahead for selecting content links.
+
+## [Development Tools](#development-tools)
+- [dynamic-content-extensions-react]() - Wrapper to make react development easier and to convert some functions to react hooks.
+- [dynamic-content-extensions-angular]() - Service for angular 2+ to make development faster.
 
 
-## Section
+## [Guides](#guides)
 
-About this section. Optional. Keep this short and focus on the list.
+### [Offical](#offical)
+- [Documentation]() - Offical documentation for Dynamic Content extenions.
+- [SDK Reference]() - Full API reference for Extensions SDK.
+- [Extension Best Practices]() - Rules to follow when creating a Dynamic Content Extension.
+- [FAQ's]() - Frequently asked questions.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+### [Blogs](#blogs)
+### [Videos](#videos)
 
 
 ## Contribute

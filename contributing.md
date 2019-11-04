@@ -8,9 +8,17 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- **If you just created something, wait at least 14 days before submitting.** This is to give it some time to mature.
+- Extensions should come with some Documentation on how to get started and maybe an example Schema, Snippet and include required properties in order to work.
+- Use the following format: [package](link) - Description.
+- Additions should be added to the bottom of the relevant category.
+- Link to the GitHub repo, not npmjs.com or its website.
+- Keep descriptions short and simple, but descriptive.
+- Start the description with a capital and end with a full stop/period.
+- Don't start the description with A or An.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- New categories or improvements to the existing categorization are welcome.
 
 Thank you for your suggestions!
 
