@@ -11,6 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - **If you just created something, wait at least 14 days before submitting.** This is to give it some time to mature.
 - Extensions should come with some Documentation on how to get started and maybe an example Schema, Snippet and include required properties in order to work.
 - Use the following format: [package](link) - Description.
+- New categories or improvements to the existing categorization are welcome.
 - Additions should be added to the bottom of the relevant category.
 - Link to the GitHub repo, not npmjs.com or its website.
 - Keep descriptions short and simple, but descriptive.
@@ -18,7 +19,6 @@ Ensure your pull request adheres to the following guidelines:
 - Don't start the description with A or An.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- New categories or improvements to the existing categorization are welcome.
 - Run [awesome-lint](https://github.com/sindresorhus/awesome-lint) on your PR before submitting
 
 Thank you for your suggestions!
