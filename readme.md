@@ -1,4 +1,5 @@
 # Awesome Dynamic Content Extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 > Curating the best Dynamic Content Extensions for Amplience users
 
 ## Contents
@@ -35,10 +36,9 @@ List of the most Awesome extensions made for Dynamic Content
 ## Guides
 
 ### Offical
-- [Documentation]() - Offical documentation for Dynamic Content extenions.
+- [Documentation](https://docs.amplience.net/development/extensions.html) - Offical documentation for Dynamic Content extenions.
 - [SDK Reference]() - Full API reference for Extensions SDK.
 - [Extension Best Practices]() - Rules to follow when creating a Dynamic Content Extension.
-- [FAQ's]() - Frequently asked questions.
 
 ### Blogs
 ### Videos
