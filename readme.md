@@ -4,7 +4,9 @@
 
 ## Contents
 
-- [Extensions](#extensions)
+- [Extensions](#extensions) 
+
+  // @REMOVE SUBHEADINGS
   - [Media Extensions](#media-extensions)
   - [Content Link and Reference Extensions](#content-link-and-reference-extensions)
 
@@ -12,6 +14,8 @@
 
 - [Guides](#guides)
   - [Offical](#offical)
+  
+ // @REMOVE SUBHEADINGS
   - [Blogs](#blogs)
   - [Videos](#videos)
 
@@ -19,16 +23,20 @@
 
 List of the most Awesome extensions made for Dynamic Content
 
+  // @REMOVE FAKE LINKS
 - [dc-extension-slugify](http://example.com) - Turn a title into a uri safe string.
 - [dc-extension-markdown-editor](http://example.com) - Improved Markdown editor with inlining Content Links and Media.
 
 ### Media Extensions
+  // @REMOVE FAKE LINKS
 - [dc-extension-points-of-interest](http://example.com) - Add Points of interest onto an Images in Dynamic Media.
 
 ### Content Link and Reference Extensions
+  // @REMOVE FAKE LINKS
 - [dc-extension-content-link-selector](http://example.com) - Typeahead for selecting content links.
 
 ## Development Tools
+  // @REMOVE FAKE LINKS
 - [dynamic-content-extensions-react]() - Wrapper to make react development easier and to convert some functions to react hooks.
 - [dynamic-content-extensions-angular]() - Service for angular 2+ to make development faster.
 
@@ -37,7 +45,11 @@ List of the most Awesome extensions made for Dynamic Content
 
 ### Offical
 - [Documentation](https://docs.amplience.net/development/extensions.html) - Offical documentation for Dynamic Content extenions.
+
+  // @ADD LINK
 - [SDK Reference]() - Full API reference for Extensions SDK.
+
+  // @ADD LINK
 - [Extension Best Practices]() - Rules to follow when creating a Dynamic Content Extension.
 
 ### Blogs
