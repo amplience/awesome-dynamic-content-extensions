@@ -12,18 +12,17 @@
   - [Offical](#offical)
 
 ## Extensions
-
-List of the most Awesome extensions made for Dynamic Content
+List of the most Awesome extensions made for Dynamic Content.
 
 ## Development Tools
-
+Development tools to make developing extensions easier.
 
 ## Guides
 
 ### Offical
 - [Documentation](https://docs.amplience.net/development/extensions.html) - Offical documentation for Dynamic Content extenions.
 - [SDK Reference](https://amplience.github.io/dc-extensions-sdk/) - Full API reference for Extensions SDK.
-- [Extension Github](https://github.com/amplience/dc-extensions-sdk) - Source code for dc-extensions-sdk
+- [Extension GitHub](https://github.com/amplience/dc-extensions-sdk) - Source code for dc-extensions-sdk.
 
 ## Contribute
 
