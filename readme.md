@@ -14,6 +14,8 @@
 ## Extensions
 List of the most Awesome extensions made for Dynamic Content.
 
+- [dc-extensions-localisation](https://github.com/dev-warner/dc-extensions-localisation) - Translates localiable text fields.
+
 ## Development Tools
 Development tools to make developing extensions easier.
 
