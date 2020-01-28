@@ -4,27 +4,26 @@
 
 ## Contents
 
+- [Guides](#guides)
+- [Development Tools](#development-tools)
 - [Extensions](#extensions) 
 
-- [Development Tools](#development-tools)
+## Guides
 
-- [Guides](#guides)
-  - [Offical](#offical)
+- [Extensions Overview](https://docs.amplience.net/development/extensions.html) - Overview for Dynamic Content extensions.
+- [Documentation](https://amplience.github.io/dc-extensions-sdk/) - Full API reference for Extensions SDK.
+
+## Development Tools
+Development tools for developing extensions.
+
+- [dc-extensions-sdk](https://github.com/amplience/dc-extensions-sdk) - Library for creating Dynamic Content extensions.
+- [dc-extensions-styleguide](https://github.com/amplience/dc-extensions-styleguide) - Basic CSS guide for saying inline with Dynamic Contents styling.
 
 ## Extensions
 List of the most Awesome extensions made for Dynamic Content.
 
-- [dc-extensions-localisation](https://github.com/dev-warner/dc-extensions-localisation) - Translates localiable text fields.
-
-## Development Tools
-Development tools to make developing extensions easier.
-
-## Guides
-
-### Offical
-- [Documentation](https://docs.amplience.net/development/extensions.html) - Offical documentation for Dynamic Content extenions.
-- [SDK Reference](https://amplience.github.io/dc-extensions-sdk/) - Full API reference for Extensions SDK.
-- [Extension GitHub](https://github.com/amplience/dc-extensions-sdk) - Source code for dc-extensions-sdk.
+- [dc-extension-localisation](https://github.com/amplience/dc-extension-localization) - Automatic translation based on localized fields.
+- [dc-extension-product-selector](https://github.com/amplience/dc-extension-product-selector) - Allows content authors to easily search and select products in Salesforce Commerce Cloud or Hybris.
 
 ## Contribute
 
