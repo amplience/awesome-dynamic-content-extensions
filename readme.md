@@ -1,45 +1,46 @@
 # Awesome Dynamic Content Extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> Curating the best Dynamic Content Extensions for Amplience users
+​
+> A curated list of awesome UI extensions for Amplience Dynamic Content
 
 ## Contents
-
 - [Guides](#guides)
 - [Development Tools](#development-tools)
 - [Extensions](#extensions) 
-
+​
 ## Guides
 
-- [Extensions Overview](https://docs.amplience.net/development/extensions.html) - Overview for Dynamic Content extensions.
-- [Documentation](https://amplience.github.io/dc-extensions-sdk/) - Full API reference for Extensions SDK.
+- [Extensions Overview](https://docs.amplience.net/development/extensions.html) - Getting started with Dynamic Content UI extensions.
+- [Documentation](https://amplience.github.io/dc-extensions-sdk/) - Full API reference for Dynamic Content Extensions SDK.
 
 ## Development Tools
-Development tools for developing extensions.
-
+Tools for developing extensions.
+​
 - [dc-extensions-sdk](https://github.com/amplience/dc-extensions-sdk) - Library for creating Dynamic Content extensions.
-- [dc-extensions-styleguide](https://github.com/amplience/dc-extensions-styleguide) - Basic CSS guide for saying inline with Dynamic Contents styling.
+- [dc-extensions-styleguide](https://github.com/amplience/dc-extensions-styleguide) - Basic CSS guide for styling Dynamic Content extensions.
 
+​
 ## Extensions
 List of the most Awesome extensions made for Dynamic Content.
+​
+- [dc-extension-localisation](https://github.com/amplience/dc-extension-localization) - Automatic translation of localized fields.
+- [dc-extension-product-selector](https://github.com/amplience/dc-extension-product-selector) - Search and select products from Salesforce Commerce Cloud or SAP Hybris.
+- [dc-extension-di-transform](https://github.com/amplience/dc-extension-di-transform) - Set image transformations such as point of interest or cropping in Dynamic Content.
 
-- [dc-extension-localisation](https://github.com/amplience/dc-extension-localization) - Automatic translation based on localized fields.
-- [dc-extension-product-selector](https://github.com/amplience/dc-extension-product-selector) - Allows content authors to easily search and select products in Salesforce Commerce Cloud or Hybris.
-
+​
 ## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
+​
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. 
+​
 ## License
-
-Copyright 2019 Amplience
-
+​
+Copyright 2020 Amplience
+​
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
-
+​
     http://www.apache.org/licenses/LICENSE-2.0
-
+​
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
