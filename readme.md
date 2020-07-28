@@ -25,8 +25,8 @@ List of the most Awesome extensions made for Dynamic Content.
 - [dc-extension-localisation](https://github.com/amplience/dc-extension-localization) - Automatic translation of localized fields.
 - [dc-extension-product-selector](https://github.com/amplience/dc-extension-product-selector) - Search and select products from Salesforce Commerce Cloud, SAP Hybris or Commercetools.
 - [dc-extension-di-transform](https://github.com/amplience/dc-extension-di-transform) - Set image transformations such as point of interest or cropping in Dynamic Content.
-- [dc-extension-brand-colours](https://github.com/amplience/dc-extension-brand-colours) - Pick colours relevant to your brand's identity from customisable colour groups.
-- [dc-extension-rich-text](https://github.com/amplience/dc-extension-rich-text) - Customisable rich text editor with an inline content chooser.
+- [dc-extension-brand-colours](https://github.com/amplience/dc-extension-brand-colours) - Pick colours relevant to your brand's identity from customizable colour groups.
+- [dc-extension-rich-text](https://github.com/amplience/dc-extension-rich-text) - Customizable rich text editor with an inline content chooser.
 - [dc-extension-map-ui](https://github.com/amplience/dc-extension-map-ui) - Configure and display locations using Google Maps.
 
 ​
