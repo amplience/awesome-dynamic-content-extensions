@@ -5,7 +5,7 @@
 ## Contents
 - [Guides](#guides)
 - [Development Tools](#development-tools)
-- [Extensions](#extensions) 
+- [Extensions](#extensions)
 ​
 ## Guides
 
@@ -21,7 +21,10 @@ Tools for developing extensions.
 ​
 ## Extensions
 List of the most Awesome extensions made for Dynamic Content.
-​
+
+## Content field
+​Extend the content form.
+
 - [dc-extension-localisation](https://github.com/amplience/dc-extension-localization) - Automatic translation of localized fields.
 - [dc-extension-product-selector](https://github.com/amplience/dc-extension-product-selector) - Search and select products from Salesforce Commerce Cloud, SAP Hybris or Commercetools.
 - [dc-extension-di-transform](https://github.com/amplience/dc-extension-di-transform) - Set image transformations such as point of interest or cropping in Dynamic Content.
@@ -29,10 +32,16 @@ List of the most Awesome extensions made for Dynamic Content.
 - [dc-extension-rich-text](https://github.com/amplience/dc-extension-rich-text) - Customizable rich text editor with an inline content chooser.
 - [dc-extension-map-ui](https://github.com/amplience/dc-extension-map-ui) - Configure and display locations using Google Maps.
 
+## Dashboard
+Extend the dashboard.
+
+- [dc-extension-ga-dashboard](https://github.com/amplience/dc-extension-ga-dashboard) - Google Analytics dashboard with events reports for content, editions and slots.
+- [dc-extension-kanban-board](https://github.com/amplience/dc-extension-kanban-board) - Visualise configured content item statuses as a Kanban board.
+
 ​
 ## Contribute
 ​
-Contributions welcome! Read the [contribution guidelines](contributing.md) first. 
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 ​
 ## License
 ​
