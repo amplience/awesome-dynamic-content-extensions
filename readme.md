@@ -31,6 +31,7 @@ List of the most Awesome extensions made for Dynamic Content.
 - [dc-extension-brand-colours](https://github.com/amplience/dc-extension-brand-colours) - Pick colours relevant to your brand's identity from customizable colour groups.
 - [dc-extension-rich-text](https://github.com/amplience/dc-extension-rich-text) - Customizable rich text editor with an inline content chooser.
 - [dc-extension-map-ui](https://github.com/amplience/dc-extension-map-ui) - Configure and display locations using Google Maps.
+- [dc-extension-date-time-picker](https://github.com/amplience/dc-extension-date-time-picker) - Date / time chooser with customisable formats.
 
 ## Dashboard
 Extend the dashboard.
