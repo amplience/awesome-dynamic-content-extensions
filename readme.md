@@ -36,6 +36,7 @@ List of the most Awesome extensions made for Dynamic Content.
 - [dc-extension-shoppable-image](https://github.com/amplience/dc-extension-shoppable-image) - Define Focal Points and interactable hotspots/polygons over an image
 - [dc-extension-shoppable-video](https://github.com/amplience/dc-extension-shoppable-video) - Enrich a video with moving interactive hotspots, and associated call-to-action buttons that can be clicked as the video plays
 - [dc-extension-hierarchy-chooser](https://github.com/amplience/dc-extension-hierarchy-chooser) - Allows selection of content links and content references from a hierarchy tree.
+- [dc-extension-help](https://github.com/amplience/dc-extension-help) - Allows a help block to a content item. This creates a placeholder field that simply shows helpful information of your choosing in the content item editor.
 - [dc-sample-extension-personify](https://github.com/amplience/dc-sample-extension-personify) - Content decisioning for a Targeted Content item using the Personify XP UI extension
 - [dc-extension-dom-editor](https://github.com/amplience/dc-extension-dom-editor) - Create and edit a hierarchy of components to structure their content in an abstract manner, for use in a Document Object Model.
 
