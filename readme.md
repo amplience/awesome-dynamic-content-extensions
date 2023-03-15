@@ -39,6 +39,7 @@ List of the most Awesome extensions made for Dynamic Content.
 - [dc-extension-help](https://github.com/amplience/dc-extension-help) - Allows a help block to a content item. This creates a placeholder field that simply shows helpful information of your choosing in the content item editor.
 - [dc-sample-extension-personify](https://github.com/amplience/dc-sample-extension-personify) - Content decisioning for a Targeted Content item using the Personify XP UI extension
 - [dc-extension-dom-editor](https://github.com/amplience/dc-extension-dom-editor) - Create and edit a hierarchy of components to structure their content in an abstract manner, for use in a Document Object Model.
+- [dc-extension-grid](https://github.com/amplience/dc-extension-grid) - Allows users to place and resize grid items using a WYSIWYG editor, and edit their content by selecting them.
 
 ## Dashboard
 Extend the dashboard.
@@ -55,7 +56,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ​
 ## License
 ​
-Copyright 2022 Amplience
+Copyright 2023 Amplience
 
 ​
 Licensed under the Apache License, Version 2.0 (the "License");
